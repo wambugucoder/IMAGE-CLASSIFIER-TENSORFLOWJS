@@ -1,0 +1,22 @@
+{
+  "name": "image-classifier",
+  "version": "1.0.0",
+  "description": "Typescript-image-classifier",
+  "main": "classify.ts",
+  "scripts": {
+   "start":"ts-node src/classify.ts",
+    "scraper":"tsnd --respawn src/scraper.ts"
+  },
+  "author": "jos",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^2.4.0",
+    "@tensorflow/tfjs-node": "^2.4.0"
+  },
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "ts-node-dev": "^1.0.0-pre.62",
+    "typescript": "^4.0.2"
+  }
+}
