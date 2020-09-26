@@ -1,4 +1,7 @@
 # IMAGE-CLASSIFIER-ML--TYPESCRIPT
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/06181f6599bd4f0eb19771c836711641)](https://app.codacy.com/manual/josphatwambugu77/IMAGE-CLASSIFIER-TENSORFLOWJS?utm_source=github.com&utm_medium=referral&utm_content=wambugucoder/IMAGE-CLASSIFIER-TENSORFLOWJS&utm_campaign=Badge_Grade_Settings)
+
 <h1><b>TensorFlow.js</b></h2>
 
 <p>TensorFlow.js, an open-source library you can use to define, train, and run machine learning models entirely in the browser, using JavaScript and a high-level layers API. If you’re a JavaScript developer who’s new to ML, TensorFlow.js is a great way to begin learning.
