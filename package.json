@@ -15,8 +15,8 @@
     "@tensorflow/tfjs-node": "^2.4.0"
   },
   "devDependencies": {
-    "ts-node": "^9.0.0",
-    "ts-node-dev": "^1.0.0-pre.62",
-    "typescript": "^4.0.2"
+    "ts-node": "9.0.0",
+    "ts-node-dev": "1.0.0-pre.62",
+    "typescript": "4.0.2"
   }
 }
