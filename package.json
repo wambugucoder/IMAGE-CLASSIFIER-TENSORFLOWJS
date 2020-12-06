@@ -11,8 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "@tensorflow-models/mobilenet": "^2.0.4",
+
     "@tensorflow/tfjs": "^2.5.0",
     "@tensorflow/tfjs-node": "^2.7.0"
+
+    "@tensorflow/tfjs": "^2.7.0",
+    "@tensorflow/tfjs-node": "^2.4.0"
+
   },
   "devDependencies": {
     "ts-node": "^9.0.0",
